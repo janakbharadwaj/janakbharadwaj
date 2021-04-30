@@ -32,3 +32,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janakbharadwaj&layout=compact)
 <br>
 <br>
+<p align="center"><br><img align="center" src="https://media-exp1.licdn.com/dms/image/C5616AQEQ7ndVUDn1nA/profile-displaybackgroundimage-shrink_350_1400/0/1618636722497?e=1625097600&v=beta&t=8GNEOR-WYnuZw8GO7dgbrA3gj-xzfSzhJy4aUMAbklo" alt="moto" width="90%"/><p/>
