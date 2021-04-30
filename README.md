@@ -2,7 +2,11 @@ Hi, am **Janakbharadwaj Adluri**, am from Hyderabad, an aspiring FullStack Devel
 
 
 - 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to work where I can develop my skills
-- 📫 Reach me at : [LinkedIn](https://www.linkedin.com/in/janakbharadwaj-adluri/)
+- 👯 Looking to work where I can develop my skills
 
-## Contact me at : 
+## 📫 About me : 
+- [LinkedIn](https://www.linkedin.com/in/janakbharadwaj-adluri/)
+- [Profile](https://janak-portfolio.netlify.app/)
+- [Resume](https://drive.google.com/u/0/uc?id=1WKmOQd4R-DR6l5LhxSOGPNP6yhc9BA2k&export=download)
+- [Medium](https://janakbharadwaj-adluri.medium.com/)
+- [Hashnode](https://hashnode.com/@janakbharadwaj95)
