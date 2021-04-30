@@ -1,9 +1,11 @@
 ## Hi, am **Janakbharadwaj Adluri** from Hyderabad, am an aspiring FullStack Developer at Masai school, I love to build web pages.
 
 🌱 I am currently learning MERN Stack <br>
-👯 I am open to work as Full Stack Web Developer.
+👯 I am open to work as Full Stack Web Developer <br>
+🐾 I spend my free time helping animals and gardening <br>
+💭 Motivation : Life begins at the end of confort zone
 
-## 📊  Tech Stack
+## 🛠  Skill Set
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -19,5 +21,3 @@
 <a href="https://www.linkedin.com/in/janakbharadwaj-adluri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:janakbharadwaj.adluri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 <a href="https://janakbharadwaj-adluri.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a><br>&nbsp;
- 
-<p align="center"><br><img align="center" src="https://media3.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" alt="gif"/><p/>
