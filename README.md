@@ -1,4 +1,4 @@
-## Hi, am **Janakbharadwaj Adluri** from Hyderabad, am an aspiring FullStack Developer at Masai school, I love to build web pages.
+## Hi, am **Janakbharadwaj Adluri** from Hyderabad, am working as a Developer at capgemini.
 
 🌱 I am currently learning MERN Stack <br>
 👯 I am open to work as Full Stack Web Developer <br>
